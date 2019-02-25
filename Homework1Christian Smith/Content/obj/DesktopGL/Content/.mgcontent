@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/chris/Desktop/Game Engine Design/Homework1Christian Smith/Homework1Christian Smith/Content/Animal_Rigged_Zebu_01.fbx</File>
+    <File>C:/Users/chris/Desktop/Game Engine Design/Homework1Christian Smith/Homework1Christian Smith/Content/Barrel_Sealed_01.fbx</File>
+    <File>C:/Users/chris/Desktop/Game Engine Design/Homework1Christian Smith/Homework1Christian Smith/Content/Bone_Ribcage_02.fbx</File>
+    <File>C:/Users/chris/Desktop/Game Engine Design/Homework1Christian Smith/Homework1Christian Smith/Content/Boulder_Stone_01.fbx</File>
+    <File>C:/Users/chris/Desktop/Game Engine Design/Homework1Christian Smith/Homework1Christian Smith/Content/Bush_Large_01.fbx</File>
+    <File>C:/Users/chris/Desktop/Game Engine Design/Homework1Christian Smith/Homework1Christian Smith/Content/Bush_Small_02.fbx</File>
+    <File>C:/Users/chris/Desktop/Game Engine Design/Homework1Christian Smith/Homework1Christian Smith/Content/Cactus_01.fbx</File>
+    <File>C:/Users/chris/Desktop/Game Engine Design/Homework1Christian Smith/Homework1Christian Smith/Content/Candle_01.fbx</File>
+    <File>C:/Users/chris/Desktop/Game Engine Design/Homework1Christian Smith/Homework1Christian Smith/Content/Casket_Timber_Lid_01.fbx</File>
+    <File>C:/Users/chris/Desktop/Game Engine Design/Homework1Christian Smith/Homework1Christian Smith/Content/Casket_Timber_Open_01.fbx</File>
+    <File>C:/Users/chris/Desktop/Game Engine Design/Homework1Christian Smith/Homework1Christian Smith/Content/Cloud_02.fbx</File>
+    <File>C:/Users/chris/Desktop/Game Engine Design/Homework1Christian Smith/Homework1Christian Smith/Content/Crate_Sealed_01.fbx</File>
+    <File>C:/Users/chris/Desktop/Game Engine Design/Homework1Christian Smith/Homework1Christian Smith/Content/Crystal_Light_Blue_01.fbx</File>
+    <File>C:/Users/chris/Desktop/Game Engine Design/Homework1Christian Smith/Homework1Christian Smith/Content/Font.spritefont</File>
+    <File>C:/Users/chris/Desktop/Game Engine Design/Homework1Christian Smith/Homework1Christian Smith/Content/Tree_Pine_04.fbx</File>
+    <File>C:/Users/chris/Desktop/Game Engine Design/Homework1Christian Smith/Homework1Christian Smith/Content/Tree_Stump_01.fbx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

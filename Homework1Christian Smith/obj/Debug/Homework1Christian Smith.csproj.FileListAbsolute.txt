@@ -1,0 +1,71 @@
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Animal_Rigged_Zebu_01.xnb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Barrel_Sealed_01.xnb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Bluff_Grass_01.xnb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Bone_Ribcage_02.xnb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Boulder_Stone_01.xnb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Bush_Small_02.xnb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Cactus_01.xnb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Candle_01.xnb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Casket_Timber_Lid_01.xnb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Casket_Timber_Open_01.xnb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Cloud_02.xnb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Crate_Sealed_01.xnb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Crystal_Light_Blue_01.xnb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Font.xnb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Tree_Pine_04.xnb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Tree_Stump_01.xnb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Homework1Christian Smith.exe
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Homework1Christian Smith.pdb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\obj\Debug\Homework1Christian Smith.csprojAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\obj\Debug\Homework1Christian Smith.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\obj\Debug\Homework1Christian Smith.csproj.CopyComplete
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\obj\Debug\Homework1Christian Smith.exe
+C:\Users\chris\Documents\Visual Studio 2017\Projects\Homework1Christian Smith\Homework1Christian Smith\obj\Debug\Homework1Christian Smith.pdb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Bluff_Grass_01.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Animal_Rigged_Zebu_01.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Barrel_Sealed_01.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Bone_Ribcage_02.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Boulder_Stone_01.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Bush_Large_01.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Bush_Small_02.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Cactus_01.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Candle_01.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Casket_Timber_Lid_01.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Casket_Timber_Open_01.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Cloud_02.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Crate_Sealed_01.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Crystal_Light_Blue_01.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Font.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Tree_Pine_04.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Content\Tree_Stump_01.xnb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Homework1Christian Smith.exe
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\Homework1Christian Smith.pdb
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\obj\Debug\Homework1Christian Smith.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\obj\Debug\Homework1Christian Smith.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\obj\Debug\Homework1Christian Smith.csproj.CopyComplete
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\obj\Debug\Homework1Christian Smith.exe
+C:\Users\chris\Desktop\Game Engine Design\Homework1Christian Smith\Homework1Christian Smith\obj\Debug\Homework1Christian Smith.pdb
